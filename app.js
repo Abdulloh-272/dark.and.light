@@ -1,15 +1,15 @@
-function dark() {
-  const dark = document.querySelector(".mode");
-  dark.classList.remove("bg-white");
+// function dark() {
+//   const dark = document.querySelector(".mode");
+//   dark.classList.remove("bg-white");
 
-  dark.classList.add("bg-black");
-}
+//   dark.classList.add("bg-black");
+// }
 
-function light() {
-  const light = document.querySelector(".mode");
-  light.classList.remove("bg-black");
-  light.classList.add("bg-white");
-}
+// function light() {
+//   const light = document.querySelector(".mode");
+//   light.classList.remove("bg-black");
+//   light.classList.add("bg-white");
+// }
 
 function dark2() {
     const dark1 = document.querySelector(".dark");
